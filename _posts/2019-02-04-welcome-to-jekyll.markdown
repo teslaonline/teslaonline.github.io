@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Planujesz zakup Tesli?"
+title:  "Jak kupić Teslę?"
 categories: [ Jekyll ]
-image: assets/images/models.jpg
+image: assets/images/brand-new-tesla.jpg
 ---
 Dowolną konfigurację samochodu Tesla można zamówić poprzez stronę www.tesla.com
 Na stronie można dodatkowo wybrać dostępny, już skonfigurowany samochód. Zwykle tego typu dostępne konfiguracje mogą być tańsze i szybciej dostępne niż z konfiguratora. Aby przeglądać dostępne samochody dla Modelu 3 można użyć tej strony.

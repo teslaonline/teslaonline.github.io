@@ -2,7 +2,7 @@
 layout: post
 title:  "Ładowanie Tesli w domu i w trasie"
 categories: [ Jekyll, tutorial ]
-image: assets/images/3.jpg
+image: assets/images/tesla-supercharger.jpg
 ---
 There are lots of powerful things you can do with the Markdown editor
 
