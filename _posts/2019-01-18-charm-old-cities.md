@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
+title:  "Powiadomienia o okazjach cenowych na nowe samochody!"
 author: jane
 categories: [ Jekyll, tutorial ]
 image: assets/images/home.jpg

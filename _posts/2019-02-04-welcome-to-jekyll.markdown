@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Planujesz zakup Tesli?"
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg
 ---
