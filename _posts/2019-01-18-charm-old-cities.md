@@ -3,7 +3,7 @@ layout: post
 title:  "Powiadomienia o okazjach cenowych na nowe samochody!"
 author: jane
 categories: [ Jekyll, tutorial ]
-image: assets/images/home.jpg
+image: assets/images/roadster.jpg
 tags: [sticky]
 ---
 
