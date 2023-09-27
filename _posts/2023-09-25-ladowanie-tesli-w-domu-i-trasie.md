@@ -51,3 +51,7 @@ Stacje Tesla Supercharger to sieć superszybkich ładowarek rozmieszczonych na c
 4. **Dostępność w trasie**: Dzięki rozmieszczeniu Superchargerów na głównych trasach możesz wygodnie podróżować długie dystanse bez obaw o zasięg. Nawigacja Tesli jest tak skonfigurowana, że uwzględnia przystanki na posiłek, odpoczynek i toaletę podczas podróży, a także planuje ładowania co 2 lub 3 godziny. Czas ładowania wynosi zazwyczaj tylko od 15 do 30 minut, co nie znacząco wydłuża czas podróży.
 
 Dzięki inteligentnemu planowaniu podróży i skutecznemu ładowaniu na stacjach Supercharger, podróżowanie samochodem elektrycznym na dłuższe dystanse jest wygodne i efektywne, a proces ładowania jest zautomatyzowany, co sprawia, że jest to jeszcze bardziej komfortowe i przyjazne dla kierowcy.
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/

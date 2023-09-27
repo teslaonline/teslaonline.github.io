@@ -4,41 +4,32 @@ title:  "Jak kupić Teslę?"
 categories: [ Jekyll ]
 image: assets/images/brand-new-tesla.jpg
 ---
-1. Zakup samochodu Tesla przez internet
+# Jak Zamawiać Samochód Tesli: Proces Krok Po Kroku
 
-Konfigurację i zakup samochodów marki Tesla jest teraz dostępny przez internet, bez konieczności wychodzenia z domu. Wystarczy odwiedzić oficjalną stronę internetową Tesla pod adresem www.tesla.com.
+1. **Wybór Konfiguracji na Stronie Tesli**
 
-2. Wybór gotowego modelu lub konfiguracja indywidualna
+   Konfigurację samochodów Tesla można zamówić wygodnie poprzez stronę internetową [www.tesla.com](https://www.tesla.com). Na stronie tej istnieje także możliwość wyboru spośród dostępnych, już skonfigurowanych modeli. Zazwyczaj takie gotowe konfiguracje mogą być tańsze i dostępne szybciej niż te tworzone przez klientów w konfiguratorze. Jeśli jesteś zainteresowany dostępnymi samochodami w modelu 3, możesz odwiedzić specjalną podstronę poświęconą temu modelowi.
 
-Na stronie tej masz możliwość wyboru spośród dostępnych, już skonfigurowanych modeli samochodów. Często takie gotowe konfiguracje są bardziej ekonomiczne i dostępne szybciej niż te tworzone od podstaw w konfiguratorze. Jeśli preferujesz model Model 3, dedykowana podstrona pozwoli ci przejrzeć dostępne samochody tego typu.
+2. **Proces Zamawiania przez Stronę Internetową**
 
-3. Prosty proces zamawiania
+   Proces zamawiania samochodu odbywa się w pełni elektronicznie poprzez stronę internetową. Aby złożyć zamówienie, będziesz potrzebować numeru karty bankowej umożliwiającej transakcje online. Przy składaniu zamówienia zostanie również pobrany depozyt, który w przypadku Modelu 3 lub Modelu Y wynosi na przykład 1200 PLN. Warto w tym momencie także pomyśleć o instalacji oficjalnej aplikacji Tesli, dostępnej zarówno na systemy Android, jak i iPhone. Dzięki niej będziesz mógł śledzić postęp produkcji i dostawy swojego samochodu. Po odbiorze samochodu aplikacja ta stanie się również twoim kluczem do pojazdu.
 
-Proces zamawiania samochodu odbywa się całkowicie online. Wymagany jest numer karty kredytowej lub debetowej z możliwością dokonywania transakcji przez internet.
+3. **Przygotowanie do Dostawy**
 
-4. Pobranie depozytu
+   W okresie krótko przed planowanym terminem dostawy, który zazwyczaj wynosi od tygodnia do dwóch, otrzymasz fakturę za samochód drogą mailową. Na fakturze tej zostanie uwzględniony wcześniej pobrany depozyt. Po dokonaniu płatności za fakturę obsługa Tesli wyśle ci kurierem dokumenty niezbędne do zarejestrowania pojazdu, które będziesz musiał dostarczyć do odpowiedniego urzędu komunikacji w celu rejestracji i odbioru tablic rejestracyjnych.
 
-Przy składaniu zamówienia zostanie także pobrany depozyt. Dla przykładu, dla Modelu 3 i Modelu Y depozyt wynosi 1200 PLN.
+4. **Planowanie Odbioru**
 
-5. Śledzenie dostawy za pomocą oficjalnej aplikacji
+   W tym samym okresie zostanie również ustalona dokładna data odbioru samochodu. Pracownik Tesli skontaktuje się z tobą krótko przed odbiorem, aby potwierdzić termin. W dniu odbioru powinieneś pojawić się w wyznaczonym punkcie odbioru, który zazwyczaj jest salonem Tesli, wraz z dokumentami otrzymanymi po rejestracji, fakturą i tablicami rejestracyjnymi. Warto pamiętać, że w przypadku dużej liczby zamówień mogą występować kolejki i dłuższy czas oczekiwania (1-3 godziny) po stronie Tesli.
 
-Warto już na tym etapie zainstalować oficjalną aplikację Tesli, dostępną zarówno na systemy Android, jak i iPhone. Aplikacja umożliwi ci śledzenie postępu produkcji i dostawy twojego samochodu. Po odbiorze samochodu aplikacja ta stanie się także twoim kluczem do pojazdu.
+5. **Odbiór i Kontrola Samochodu**
 
-6. Otrzymanie faktury i dokumentów
+   Gdy już odbierzesz samochód, zalecamy dokładne sprawdzenie pojazdu pod kątem większych bądź widocznych wad i niedoróbek. Jako klient Tesli masz także 24 godziny na zgłoszenie ewentualnych usterek fabrycznych poza salonem. W przypadku wykrycia jakichkolwiek niezgodności istnieje możliwość dokonania poprawek na miejscu w autoryzowanym warsztacie Tesli. W przeciwnym przypadku zostanie umówiony serwis w jednym z autoryzowanych punktów serwisowych Tesli lub, w przypadku mniejszych problemów, serwisant Tesli może przyjechać do ciebie i dokonać niezbędnych napraw na miejscu.
 
-Krótko przed planowanym terminem odbioru samochodu (zazwyczaj na tydzień lub dwa przed terminem) dostaniesz fakturę za samochód drogą mailową. Faktura ta uwzględni wcześniej pobrany depozyt. Gdy obsługa Tesli otrzyma płatność za fakturę, wyśle ci kurierem dokumenty niezbędne do zarejestrowania pojazdu.
+6. **Poziom Naładowania Baterii**
 
-7. Ustalanie daty odbioru
+   Warto również wiedzieć, że poziom naładowania baterii pojazdu w momencie odbioru może być różny, w zależności od liczby wydawanych pojazdów. Może wynosić nawet tylko 30%, więc warto zaplanować ładowanie w drodze do miejsca docelowego, jeśli jest ono odległe.
 
-W tym samym okresie zostanie także ustalona dokładna data odbioru samochodu. Pracownik Tesli skontaktuje się z tobą krótko przed odbiorem, aby potwierdzić datę.
-
-8. Odbiór samochodu i ewentualne poprawki
-
-W dniu odbioru samochodu powinieneś pojawić się w wyznaczonym punkcie odbioru, zazwyczaj jest to salon Tesli. Warto być przygotowanym na możliwe kolejki i dłuższy czas oczekiwania (1-3 godziny) w przypadku dużej liczby zamówień. Pracownik salonu Tesla wyda ci samochód, który warto dokładnie sprawdzić pod kątem większych wad i ewentualnych niedociągnięć. Klient Tesli ma także 24 godziny na zgłoszenie wad fabrycznych poza salonem Tesli. Jeśli jakiekolwiek niezgodności zostaną wykryte, istnieje szansa na dokonanie poprawek na miejscu w autoryzowanym warsztacie Tesli. W przeciwnym razie zostanie umówiony serwis w autoryzowanym punkcie serwisowym Tesli.
-
-9. Poziom naładowania baterii
-
-Poziom naładowania baterii pojazdu w chwili odbioru może być różny, w zależności od liczby wydawanych samochodów. Może wynosić nawet tylko 30%, dlatego warto uwzględnić to w planowaniu trasy do miejsca docelowego, szczególnie jeśli jest ono daleko.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
