@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Powiadomienia o okazjach cenowych na nowe samochody!"
-author: wojtek
+author: Wojtek
 categories: [ Jekyll, tutorial ]
 image: assets/images/roadster.jpg
 tags: [sticky]

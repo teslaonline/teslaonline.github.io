@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Która wersja zasięgu samochodu będzie odpowiednia?"
-author: sal
+author: Wojtek
 categories: [ tutorial ]
 image: assets/images/tesla-wall.jpg
 tags: [featured]

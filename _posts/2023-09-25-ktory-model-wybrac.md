@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jaki model Tesli wybrać?"
-author: jane
+author: Wojtek
 categories: [ Jekyll, tutorial ]
 image: assets/images/models.jpg
 tags: [summer]
