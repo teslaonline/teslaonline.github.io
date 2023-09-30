@@ -4,9 +4,9 @@ description: 'TESLA hub'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+# disqus: 'demowebsite'
+email: 'kontakt@teslahub.pl'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
@@ -21,11 +21,11 @@ plugins:
 authors:
     sal:
       name:           Wojtek
-      site:           https://teslaonline.github.io
+      site:           https://teslahub.pl
       avatar:         /assets/images/avatar1.jpg
       bio:            "Cześć! Mam na imię Wojtek i jestem pasjonatem nowych technologii. Na tej stronię piszę o Tesli i udostępniam porady oraz narzędzia przydatne obecnym i przyszłym posiadaczom samochodów tej marki."
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      email:          kontakt@teslahub.pl
+      # twitter:        https://twitter.com/wowthemesnet
 
     # jane:
     #   name:           Jane
