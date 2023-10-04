@@ -8460,3 +8460,13 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+
+    .notifications-app {
+      height: 250px;
+    }
+
+    @media (max-width: 800px) {
+      .notifications-app {
+        height: 500px;
+      }
+    }
