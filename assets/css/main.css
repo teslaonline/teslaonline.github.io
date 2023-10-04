@@ -8462,11 +8462,11 @@ html {
     align-self: stretch !important; } }
 
     .notifications-app {
-      height: 250px;
+      height: 350px;
     }
 
     @media (max-width: 800px) {
       .notifications-app {
-        height: 500px;
+        height: 600px;
       }
     }
