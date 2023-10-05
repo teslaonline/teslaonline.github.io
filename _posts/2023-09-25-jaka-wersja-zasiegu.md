@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Która wersja zasięgu samochodu będzie odpowiednia?"
+title:  "Standard Range vs Long Range, czyli którą wersję zasięgu wybrać?"
 categories: [ poradnik ]
 image: assets/images/tesla-wall.jpg
 tags: [featured]
 ---
 # Zalety Wersji Long Range w Samochodach Tesla Model 3 i Y
+
+Samochody Tesla Model 3 i Y nawet w wersji Standard Range to bardzo dobre samochody, ale być może warto dopłacić te kilkanaście procent ceny wyjściowej za więszky zasięg i lepsze parametry jezdne. Jeżeli zastanawiasz się nad wyborem wariantu Standard Range lub Long Range to być może poniższy artykuł jest dla ciebie.
 
 ## Pojemniejsza Bateria
 
