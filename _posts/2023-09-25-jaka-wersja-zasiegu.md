@@ -2,7 +2,7 @@
 layout: post
 title:  "Standard Range vs Long Range, czyli którą wersję zasięgu wybrać?"
 categories: [ poradnik ]
-image: assets/images/tesla-wall.jpg
+image: assets/images/dualmotor.jpg
 tags: [featured]
 ---
 # Zalety Wersji Long Range w Samochodach Tesla Model 3 i Y
@@ -30,6 +30,10 @@ Dodatkowo należy pamiętać, że prędkość szybkiego ładowania dla wersji Lo
 ## Lepsze parametry jezdne
 
 Wersje Long Range oferują lepsze osiągi w porównaniu do wersji Standard Range. Dzięki dodatkowemu silnikowi elektrycznemu z przodu (wersja Standard Range posiada tylko napęd na tylnią oś), te pojazdy mogą osiągać lepsze wyniki w zakresie trakcji, przyspieszenia i prędkości maksymalnej. Dla przykładu, wersja Model 3 Standard Range oferuje przyspieszenie na poziomie 6,1 sekund do 100km/h, podczas gdy wersja Long Range oferuje przyspieszenie na poziomie 4,4 sekund do 100km/h.
+
+## Model 3 Long Range posiada lepszy zestaw audio niż Model 3 Standard Range
+
+Tesla Model Y posiada identyczne wyposażenie niezależnie od wariantu zasięgu, natomiast w przypadku Tesli Model 3 pojazd w wersji Standard Range posiada minimalnie gorsze wyposażenie niż Long Range. Mowa tutaj o zestawie audio, który w wersji Long Range ma większą liczbę głośników, dwa wzmacniacze i dwa subwoofery. O ile podstawowe audio w Tesli Model 3 jest przyzwoite, to jednak zestaw audio w Model Y (w każdej wersji) oraz w Model 3 Long Range jest najlepszym dostępny, wśród samochodów Tesli z tego przedziału cenowego.
 
 # Na Standard Range i tak dojedziesz wszędzie (*)
 
