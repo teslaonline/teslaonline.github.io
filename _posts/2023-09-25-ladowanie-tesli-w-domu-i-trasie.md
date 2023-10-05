@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ładowanie Tesli w domu i w trasie"
-categories: [ Jekyll, tutorial ]
+categories: [ poradnik ]
 image: assets/images/tesla-supercharger.jpg
 ------
 # Jak Ładować Teslę: Domowe Ładowanie i Ładowarki Supercharger w Trasie

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jak kupić Teslę?"
-categories: [ Jekyll ]
+categories: [ poradnik ]
 image: assets/images/brand-new-tesla.jpg
 ---
 # Jak Zamawiać Samochód Tesli: Proces Krok Po Kroku
