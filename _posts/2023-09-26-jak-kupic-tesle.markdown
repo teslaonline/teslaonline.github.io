@@ -2,9 +2,9 @@
 layout: post
 title:  "Jak kupić Teslę?"
 categories: [ poradnik ]
-image: assets/images/brand-new-tesla.jpg
+image: assets/images/jakkupic.jpg
 ---
-# Jak zamówić Teslę: krok po kroku
+# Jak zamówić Teslę krok po kroku
 
 1. **Wybór Konfiguracji na Stronie Tesli**
 
