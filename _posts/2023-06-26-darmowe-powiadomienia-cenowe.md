@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Powiadomienia o okazjach cenowych na nowe samochody!"
-author: Wojtek
 categories: [ powiadomienia ]
 image: assets/images/roadster.jpg
 tags: [sticky]
