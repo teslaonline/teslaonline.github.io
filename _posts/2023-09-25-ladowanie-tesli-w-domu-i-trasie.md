@@ -10,7 +10,7 @@ image: assets/images/tesla-supercharger.jpg
 
 ### Co to jest Wall Connector?
 
-Tesla Wall Connector to zaawansowana ładowarka, która jest dostępna jako opcja do większości modeli Tesli. To urządzenie umożliwia szybkie i wydajne ładowanie samochodu w komfortowym otoczeniu własnego domu. 
+Tesla Wall Connector to przydomowa ładowarka, która jest dostępna jako opcja do większości modeli Tesli. To urządzenie umożliwia szybkie i wydajne ładowanie samochodu w komfortowym otoczeniu własnego domu. 
 
 ### Instalacja Wall Connector
 
@@ -24,7 +24,7 @@ Tesla Wall Connector to zaawansowana ładowarka, która jest dostępna jako opcj
 
 ### Optymalne Przyłączenie do Gniazda Siłowego
 
-Wall Connector jest zoptymalizowany do przyłączania do gniazd siłowych o mocy 11 kW. Tesla samochody obsługują tę prędkość ładowania, co pozwala na skuteczne i efektywne ładowanie w domowym zaciszu. Warto również zaznaczyć, że niektóre inne samochody elektryczne mogą korzystać z Wall Connector z prędkością 22 kW, co jeszcze bardziej zwiększa wydajność ładowania.
+Wall Connector jest zoptymalizowany do przyłączania do gniazd siłowych o mocy 11 kW. Samochody Tesla obsługują tę prędkość ładowania, ale warto również zaznaczyć, że niektóre samochody innych marek mogą korzystać z Wall Connector z prędkością 22 kW, co jeszcze bardziej zwiększa wydajność ładowania.
 
 ### Korzyści z Wall Connector
 
