@@ -12,6 +12,8 @@ Jeżeli chodzi o podróżowanie Teslą to można powiedzieć, że ogólnodostęp
 
 ## Ładowanie Tesli w Domu za Pomocą Mobile Connector
 
+![Mobile Connector](/assets/images/mobileconnector.jpg "Mobile Connector")
+
 ### Co to jest Mobile Connector
 
 Standardowa ładowarka tesli Mobile Connector jest dziś dodawana do każdego nowego samochodu Tesli i pozwala na ładowanie pojazdu ze zwykłego domowego/ogrodowego gniazdka elektrycznego 220V prędkością poniżej 3 KW, co daje doładowanie zasięgu na poziomie 20 km na godzinę. Możliwe jest również skorzystanie ze specjalnych niebieskich adapterów do przyłączy kempingowych co pozwala na wykorzystanie Mobile Connectora z mocą około 7 kW, czyli około 50 km doładowania w ciągu godziny.
@@ -21,6 +23,8 @@ Standardowa ładowarka tesli Mobile Connector jest dziś dodawana do każdego no
 Łatwo obliczyć, że dla Tesli Model 3 Standard Range ładowanie baterii 55 kWh od zera do pełna trwa aż 22 godziny, zatem nie jest to rozwiązanie, które pozowli często i szybko naładować samochód do pełna (np. przez noc). Jest to jednak urządzenie mobilne, które można zabrać i podłączyć wszędzie, co czyni je nieodłącznym elementem wyposażenia naszego bagażnika.
 
 ## Ładowanie Tesli w Domu za Pomocą Wall Connector
+
+![Wall Connector](/assets/images/wallconnector.jpg "Wall Connector")
 
 ### Co to jest Wall Connector?
 
@@ -38,6 +42,8 @@ Dodatkowo Wall Connector posiada na wtyczce dedykowany samochodom Tesli przycisk
 
 ### Przewaga innych ładowarek nad Tesla Wall Connector
 
+![ZenCar](/assets/images/zencar.jpg "ZenCar")
+
 #### Cena
 
 Ładowarki innych producentów mogą być tańsze (dla przykładu: ZenCar 11KW to cena 1600 PLN podczas gdy Wall Connector ponad 2200PLN).
@@ -47,6 +53,8 @@ Dodatkowo Wall Connector posiada na wtyczce dedykowany samochodom Tesli przycisk
 Ładowarka Wall Connector jest ładowarką na stałe montowaną przy elektrycznej instalacji siłowej, podczas gdy ładowarki innych producentów (np. ponownie ZenCar) wykorzystuje gniazdo siłowe dostępnej już instalacji elektrycznej. Oznacza to, że taka ładowarka jest przenośnia, w każdej chwili można wyjąć ją z gniazda i zabrać w podróż umożliwiając ładowanie w innej lokalizacji.
 
 ## Ładowanie Tesli na Stacjach Supercharger w Trasie
+
+![Tesla Supercharger](/assets/images/tesla_supercharger.jpg "Tesla Supercharger")
 
 ### Co to są Superchargery?
 
