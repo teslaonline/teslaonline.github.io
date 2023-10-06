@@ -15,14 +15,14 @@ Modele 3, Y, S i X to pojazdy, z których każdy ma swoje unikalne cechy i przez
 
 ### Zalety:
 1. **Cena:** Model 3 jest najbardziej dostępnym modelem w ofercie Tesli, co czyni ją bardziej przystępną cenowo niż pozostałe modele.
-2. **Wydajność:** Model 3 oferuje imponujący zakres jazdy na jednym ładowaniu, szczególnie w wersji Long Range, co sprawia, że ​​jest doskonałym wyborem dla osób, które często podróżują.
-3. **Mobilność miejska:** Rozmiary Modelu 3 sprawiają, że jest najmniejszym pojazdem marki Tesla co sprawia, że najbardziej nadaje się do jazdy po mieście i parkowania w ciasnych miejscach.
+2. **Wydajność:** Model 3 oferuje bardzo dobry zasięg jazdy na jednym ładowaniu, szczególnie w wersji Long Range, co sprawia, że ​​jest doskonałym wyborem dla osób, które często podróżują.
+3. **Najnowocześniejsze technologie:** Model 3 we wrześniu 2023 doczekał się kolejnej, poliftowej wersji roboczo zwanej Highland. Można powiedzieć, że jest to obecnie najnowocześniejszy model w gamie pojazdów Tesli.
 
 ### Wady:
 1. **Przestrzeń wewnętrzna:** W porównaniu do pojazdów innych marek nawet najmniejsza Tesla Model 3 nie jest samochodem małym - oferuje ona dużo miejsca dla typowych zastosowań, jest to jednak samochód względnie niski (zwłaszcza w porównaniu z modnymi obecnie samochodami typu Crossover), co dla niektórych może oznaczać niewygodę przy wsiadaniu i wysiadaniu. W porównaniu do innych modeli Tesli, Model 3 oferuje mniej przestrzeni wewnątrz, co może być niewygodne dla osób o większym wzroście, zwłaszcza jeśli przyjdzie im podróżować na tylnej kanapie. 
 2. **Bagażnik:** Bagażnik w Modelu 3 jest w typie sedan, co oznacza że otwierana jest tylko klapa bagażnika (bez szyby), zmniejszając ładowność oraz praktyczność korzystania (otwór bagażnika jest mały, utrudnione zatem będzie załadowywanie przedmiotów o większych gabarytach).
 
-**Podsumowanie:** Tesla Model 3 jest doskonałym wyborem dla osób, które cenią sobie przystępną cenę i zasięg jazdy. Jest to idealny samochód dla miejskich mieszkańców i tych, którzy nie potrzebują dużej przestrzeni wewnętrznej.
+**Podsumowanie:** Tesla Model 3 jest doskonałym wyborem dla osób, które cenią sobie przystępną cenę i zasięg jazdy. Jest to idealny dla tych którzy nie potrzebują dużej przestrzeni wewnętrznej.
 
 ## Tesla Model Y
 
@@ -31,6 +31,7 @@ Modele 3, Y, S i X to pojazdy, z których każdy ma swoje unikalne cechy i przez
 ### Zalety:
 1. **Przestronność:** Model Y oferuje dużo więcej przestrzeni wewnętrznej niż Model 3, co sprawia, że ​​jest idealny dla rodzin i podróżujących z dużą ilością bagażu.
 2. **Wydajność:** Podobnie jak Model 3, Model Y oferuje duży zasięg i doskonałą dynamikę jazdy. 
+3. **Bagażnik:** Bagażnik w Modelu Y jest typie hatchback, co sprawia że dzięki dodatkowo automatycznie składanej tylnej kanapie załadowywanie przedmiotów o dużych gabarytach jest wygodne.
 
 ### Wady:
 1. **Cena:** Model Y jest nieco droższy od Modelu 3, co może być czynnikiem ograniczającym dla niektórych kupujących.
@@ -43,9 +44,9 @@ Modele 3, Y, S i X to pojazdy, z których każdy ma swoje unikalne cechy i przez
 ![Tesla Model S](/assets/images/models.png "Model S")
 
 ### Zalety:
-1. **Luksus i komfort:** Model S to luksusowy sedan z przestronnym wnętrzem i wyrafinowanym wystrojem.
+1. **Luksus i komfort:** Model S to luksusowy sedan z przestronnym i ciekawie wykończonym wnętrzem.
 2. **Zasięg:** Model S oferuje jedną z największych pojemności baterii w ofercie Tesli, co przekłada się na imponujący zasięg jazdy.
-3. **Przyspieszenie:** Wersje Performance Modelu S oferują niesamowite przyspieszenie.
+3. **Przyspieszenie:** Wersje Plaid Modelu S oferują niesamowite przyspieszenie na poziomie 2,1 sekund do 100 km/h.
 
 ### Wady:
 1. **Cena:** Model S to jedno z droższych rozwiązań w ofercie Tesli.
@@ -59,14 +60,13 @@ Modele 3, Y, S i X to pojazdy, z których każdy ma swoje unikalne cechy i przez
 
 ### Zalety:
 1. **Przestrzeń:** Model X oferuje przestronne wnętrze i trzeci rząd siedzeń, co czyni go idealnym wyborem dla większych rodzin.
-2. **Funkcje awaryjne:** Model X wyposażony jest w wiele zaawansowanych funkcji bezpieczeństwa, takich jak system Autopilot.
-3. **Wydajność:** Modele X Performance zapewniają świetną dynamikę jazdy, pomimo swojej wielkości.
+2. **Wydajność:** Modele X Plaid zapewniają świetną dynamikę jazdy, pomimo swojej wielkości.
 
 ### Wady:
-1. **Cena:** Model X jest jednym z najdroższych modeli Tesli.
+1. **Cena:** Model X jest najdroższym pojazdem Tesli.
 2. **Rozmiar:** Jak Model S, Model X może być trudny do zaparkowania w ciasnych miejscach.
 
-**Podsumowanie:** Tesla Model X to idealny wybór dla rodzin i osób potrzebujących przestrzeni oraz zaawansowanych funkcji bezpieczeństwa.
+**Podsumowanie:** Tesla Model X to idealny wybór dla rodzin i osób potrzebujących przestrzeni oraz oraz wykończenia na poziomie premium.
 
 ## Podsumowanie ogólne
 
