@@ -12,7 +12,7 @@ Jeżeli chodzi o podróżowanie Teslą to można powiedzieć, że ogólnodostęp
 
 ## Ładowanie Tesli w Domu za Pomocą Mobile Connector
 
-![Mobile Connector](/assets/images/mobileconnector.jpg "Mobile Connector")
+![Mobile Connector](/assets/images/mobileconnector.webp "Mobile Connector")
 
 ### Co to jest Mobile Connector
 
