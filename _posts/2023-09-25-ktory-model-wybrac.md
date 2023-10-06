@@ -11,6 +11,8 @@ Modele 3, Y, S i X to pojazdy, z których każdy ma swoje unikalne cechy i przez
 
 ## Tesla Model 3
 
+![Tesla Model 3](/assets/images/model3.png "Model 3")
+
 ### Zalety:
 1. **Cena:** Model 3 jest najbardziej dostępnym modelem w ofercie Tesli, co czyni ją bardziej przystępną cenowo niż pozostałe modele.
 2. **Wydajność:** Model 3 oferuje imponujący zakres jazdy na jednym ładowaniu, szczególnie w wersji Long Range, co sprawia, że ​​jest doskonałym wyborem dla osób, które często podróżują.
@@ -24,6 +26,8 @@ Modele 3, Y, S i X to pojazdy, z których każdy ma swoje unikalne cechy i przez
 
 ## Tesla Model Y
 
+![Tesla Model Y](/assets/images/modely.png "Model Y")
+
 ### Zalety:
 1. **Przestronność:** Model Y oferuje dużo więcej przestrzeni wewnętrznej niż Model 3, co sprawia, że ​​jest idealny dla rodzin i podróżujących z dużą ilością bagażu.
 2. **Wydajność:** Podobnie jak Model 3, Model Y oferuje duży zasięg i doskonałą dynamikę jazdy. 
@@ -35,6 +39,8 @@ Modele 3, Y, S i X to pojazdy, z których każdy ma swoje unikalne cechy i przez
 **Podsumowanie:** Tesla Model Y jest doskonałym wyborem dla rodzin i osób potrzebujących większej przestrzeni. Model Y Performance zadowoli także miłośników sportowej jazdy.
 
 ## Tesla Model S
+
+![Tesla Model S](/assets/images/models.png "Model S")
 
 ### Zalety:
 1. **Luksus i komfort:** Model S to luksusowy sedan z przestronnym wnętrzem i wyrafinowanym wystrojem.
@@ -48,6 +54,8 @@ Modele 3, Y, S i X to pojazdy, z których każdy ma swoje unikalne cechy i przez
 **Podsumowanie:** Tesla Model S to luksusowy samochód z doskonałym zasięgiem i oszałamiającym przyspieszeniem. Jest to idealny wybór dla tych, którzy cenią sobie komfort i wyrafinowanie.
 
 ## Tesla Model X
+
+![Tesla Model X](/assets/images/modelx.png "Model X")
 
 ### Zalety:
 1. **Przestrzeń:** Model X oferuje przestronne wnętrze i trzeci rząd siedzeń, co czyni go idealnym wyborem dla większych rodzin.
