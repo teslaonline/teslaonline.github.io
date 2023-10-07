@@ -6,7 +6,7 @@ image: assets/images/roadster.jpg
 tags: [sticky]
 ---
 
-Zapisz się do darmowych powiadomień o okazjach cenowych Tesli i uzyskaj nawet do 4000 zł zniżki!
+Zapisz się do darmowych powiadomień o okazjach cenowych Tesli i uzyskaj zniżkę w wysokości 2000 PLN na Modele Y, S i X!
 
 #### Jak to działa?
 
@@ -30,6 +30,6 @@ Zapisz się do darmowych powiadomień o okazjach cenowych Tesli i uzyskaj nawet 
 
 3. W każdym z powiadomień otrzymasz link polecający do listy dostępnych samochodów wybranego modelu, korzystając z tego linku odwdzięczysz się twórcy serwisu.
 
-4. Korzystając z polecenia otrzymasz 2000 PLN zniżki na Model 3/Y lub 4000 PLN na Model S/X.
+4. Korzystając z polecenia otrzymasz 2000 PLN zniżki na Model Y, S lub X (Model 3 nie jest obecnie objęty promocją).
 
 5. Dane e-mailowe nie są wykorzystywane komercyjnie ani przekazywane stronom trzecim. Jeśli chcesz dodatkowo zadbać o swoje bezpieczeństwo możesz skorzystać z tymczasowo utrzworzonej na te potrzeby skrzynki pocztowej.
