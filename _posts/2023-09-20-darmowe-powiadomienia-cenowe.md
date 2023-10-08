@@ -26,9 +26,9 @@ Zapisz się do darmowych powiadomień o okazjach cenowych Tesli i uzyskaj zniżk
 
 1. Korzystanie z usługi jest darmowe.
 
-2. Jedyną korzyścią, która ponosi twórca serwisu są bonusy za polecenie.
+2. Usługa ma za zadanie promować najbardziej aktywnych użytkowników serwisu poprzez wyróżnianie ich linków polecających.
 
-3. W każdym z powiadomień otrzymasz link polecający do listy dostępnych samochodów wybranego modelu, korzystając z tego linku odwdzięczysz się twórcy serwisu.
+3. W każdym z powiadomień otrzymasz link polecający do listy dostępnych samochodów wybranego modelu, kody polecające zawarte w e-mailach są wybierane losowo spośród puli najbardziej aktywnych użytkowników serwisu.
 
 4. Korzystając z polecenia otrzymasz 2000 PLN zniżki na Model Y, S lub X (Model 3 nie jest obecnie objęty promocją).
 
