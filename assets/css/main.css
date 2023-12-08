@@ -8461,12 +8461,12 @@ html {
   .align-self-xl-stretch {
     align-self: stretch !important; } }
 
-    .notifications-app {
+    .app-frame {
       height: 400px;
     }
 
     @media (max-width: 800px) {
-      .notifications-app {
+      .app-frame {
         height: 700px;
       }
     }
