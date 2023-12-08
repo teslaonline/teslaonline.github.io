@@ -5,12 +5,6 @@ layout: default
 {% if page.url contains "darmowe-powiadomienia-cenowe" %}
 	{% include notifications-app.html %}
 {% endif %}
-{% if page.url contains "porownanie-parametrow" %}
-	{% include compare-app.html %}
-	<script>
-		window.location = '#/compare';
-	</script>
-{% endif %}
 {% assign author = site.authors[page.author] %}
 <div class="container">
 <div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
@@ -69,9 +63,15 @@ layout: default
 					<!-- AddToAny END -->
 				</div>
 			</div>
-		</div>
+		</div>        
         
-        
+		{% if page.url contains "porownanie-parametrow" %}
+			{% include compare-app.html %}
+			<script>
+				window.location = '#/compare';
+			</script>
+		{% endif %}
+
 		<div class="col-md-12 col-lg-8">
             
             <!-- Article -->
