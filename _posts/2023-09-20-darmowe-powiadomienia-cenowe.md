@@ -30,6 +30,6 @@ Zapisz się do darmowych powiadomień o okazjach cenowych Tesli i otrzymaj bezp�
 
 3. W każdym z powiadomień otrzymasz link polecający do listy dostępnych samochodów wybranego modelu, kody polecające zawarte w e-mailach są wybierane losowo spośród puli najbardziej aktywnych użytkowników serwisu.
 
-4. Korzystając z polecenia otrzymasz 1000 PLN zniżki na Model Y, S lub X (Model 3 nie jest obecnie objęty promocją).
+4. Korzystając z polecenia otrzymasz bezpłatnie pakiet rozszerzonego autopilota na trzy miesiące.
 
 5. Dane e-mailowe nie są wykorzystywane komercyjnie ani przekazywane stronom trzecim. Jeśli chcesz dodatkowo zadbać o swoje bezpieczeństwo możesz skorzystać z tymczasowo utrzworzonej na te potrzeby skrzynki pocztowej.
