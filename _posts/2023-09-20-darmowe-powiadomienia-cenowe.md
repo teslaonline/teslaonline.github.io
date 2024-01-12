@@ -6,7 +6,7 @@ image: assets/images/roadster.jpg
 tags: [sticky]
 ---
 
-Zapisz się do darmowych powiadomień o okazjach cenowych Tesli i uzyskaj zniżkę w wysokości 1000 PLN na Modele Y, S i X!
+Zapisz się do darmowych powiadomień o okazjach cenowych Tesli i otrzymaj bezpłatny, trzy miesięczny pakiet autopilota podczas zakupu Modeli 3, Y, S i X!
 
 #### Jak to działa?
 
