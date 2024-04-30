@@ -6,7 +6,7 @@ image: assets/images/roadster.jpg
 tags: [sticky]
 ---
 
-Zapisz się do darmowych powiadomień o okazjach cenowych Tesli i otrzymaj bezpłatny, trzy miesięczny pakiet autopilota podczas zakupu Modeli 3, Y, S i X!
+Zapisz się do darmowych powiadomień o okazjach cenowych Tesli!
 
 #### Jak to działa?
 
@@ -26,10 +26,6 @@ Zapisz się do darmowych powiadomień o okazjach cenowych Tesli i otrzymaj bezp�
 
 1. Korzystanie z usługi jest darmowe.
 
-2. Usługa ma za zadanie promować najbardziej aktywnych użytkowników serwisu poprzez wyróżnianie ich linków polecających.
+2. W każdym z powiadomień otrzymasz link do listy dostępnych samochodów wybranego modelu.
 
-3. W każdym z powiadomień otrzymasz link polecający do listy dostępnych samochodów wybranego modelu, kody polecające zawarte w e-mailach są wybierane losowo spośród puli najbardziej aktywnych użytkowników serwisu.
-
-4. Korzystając z polecenia otrzymasz bezpłatnie pakiet rozszerzonego autopilota na trzy miesiące.
-
-5. Dane e-mailowe nie są wykorzystywane komercyjnie ani przekazywane stronom trzecim. Jeśli chcesz dodatkowo zadbać o swoje bezpieczeństwo możesz skorzystać z tymczasowo utrzworzonej na te potrzeby skrzynki pocztowej.
+3. Dane e-mailowe nie są wykorzystywane komercyjnie ani przekazywane stronom trzecim. Jeśli chcesz dodatkowo zadbać o swoje bezpieczeństwo możesz skorzystać z tymczasowo utrzworzonej na te potrzeby skrzynki pocztowej.
