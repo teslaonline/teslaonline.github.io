@@ -1,6 +1,7 @@
 # Site
 name: 'TESLAhub.pl'
-description: 'TESLA hub - centrum informacji o samochodach marki Tesla. Informacje o promocjach, przecenach i automatyczne powiadomienia o rabatach.'
+title: 'TESLA hub - centrum informacji o samochodach marki Tesla. Informacje o promocjach, przecenach i automatyczne powiadomienia o rabatach.'
+description: 'Tesla hub'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
