@@ -6,7 +6,7 @@ image: assets/images/roadster.jpg
 tags: [sticky]
 ---
 
-Zapisz się do darmowych powiadomień o okazjach cenowych Tesli!
+Zapisz się do darmowych powiadomień o okazjach cenowych Tesli oraz otrzymaj 2000 PLN zniżki na dowolny pojazd!
 
 #### Jak to działa?
 
@@ -22,6 +22,8 @@ Zapisz się do darmowych powiadomień o okazjach cenowych Tesli!
 
 6. W każdej chwili możesz zrezygnować z subskrypcji poprzez link dołączony do każdego e-maila.
 
+7. Do każdego maila z powiadomieniem cenowym dołączony jest link referencyjny, dzięki któremy otrzymasz zniżkę 2000 PLN na dowolny pojazd oraz wesprzesz działanie strony TeslaHub.pl
+
 #### Regulamin
 
 1. Korzystanie z usługi jest darmowe.
@@ -29,3 +31,4 @@ Zapisz się do darmowych powiadomień o okazjach cenowych Tesli!
 2. W każdym z powiadomień otrzymasz link do listy dostępnych samochodów wybranego modelu.
 
 3. Dane e-mailowe nie są wykorzystywane komercyjnie ani przekazywane stronom trzecim. Jeśli chcesz dodatkowo zadbać o swoje bezpieczeństwo możesz skorzystać z tymczasowo utrzworzonej na te potrzeby skrzynki pocztowej.
+
