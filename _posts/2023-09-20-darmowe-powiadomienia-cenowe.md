@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Powiadomienia o okazjach cenowych na nowe samochody!"
+title:  "Powiadomienia o okazjach cenowych, rabatach i promocjach na nowe samochody Tesla!"
 categories: [ powiadomienia ]
 image: assets/images/roadster.jpg
 tags: [sticky]
