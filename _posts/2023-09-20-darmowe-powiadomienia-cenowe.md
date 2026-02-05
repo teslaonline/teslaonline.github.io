@@ -6,6 +6,8 @@ image: assets/images/roadster.jpg
 tags: [sticky]
 ---
 
+Uwaga!!! Funkcjonalność została tymczasowo wyłączona.
+
 Zapisz się do darmowych powiadomień o okazjach cenowych Tesli oraz otrzymaj 2000 PLN zniżki na dowolny pojazd!
 
 #### Jak to działa?
